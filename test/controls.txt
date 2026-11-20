@@ -1,0 +1,11 @@
+# What test.sh plays through the simulator (opengp5/docs/platform/simulator.md): times in seconds.
+0.3  shot start
+0.5  para click            # adjust DRIVE
+0.6  para turn 10
+0.8  para click
+0.9  shot more-drive
+1.2  foot                  # bypass
+1.4  shot bypassed
+1.8  foot
+2.0  set Tone 1500         # as a computer sets it
+2.5  shot darker

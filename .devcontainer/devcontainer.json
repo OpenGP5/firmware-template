@@ -1,0 +1,11 @@
+{
+  "name": "OpenGP5 firmware",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12-bookworm",
+  "runArgs": ["--platform=linux/amd64"],
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y libc6-i386 xz-utils && git submodule update --init && opengp5/release/setup-toolchain.sh && pip install pillow",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-vscode.cpptools"]
+    }
+  }
+}
