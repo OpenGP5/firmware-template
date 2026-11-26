@@ -4,7 +4,7 @@
 
 <p align="center">
   <img alt="Version 0.1.0" src="https://img.shields.io/badge/version-0.1.0-3cc0c1?style=flat-square">
-  <a href="https://github.com/OpenGP5/OpenGP5"><img alt="Built on OpenGP5 0.8.0-alpha" src="https://img.shields.io/badge/built%20on-OpenGP5%200.8.0--alpha-5b6b7b?style=flat-square"></a>
+  <a href="https://github.com/OpenGP5/OpenGP5"><img alt="Built on OpenGP5 1.0.0" src="https://img.shields.io/badge/built%20on-OpenGP5%201.0.0-5b6b7b?style=flat-square"></a>
   <a href="LICENSE"><img alt="Licence: MIT-0" src="https://img.shields.io/badge/licence-MIT--0-3ee8b5?style=flat-square"></a>
 </p>
 
